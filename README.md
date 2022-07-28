@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasham Shah</h1>
 <h3 align="center">A passionate fullstack developer and a tach enthisiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasham2407&label=Profile%20views&color=0e75b6&style=flat" alt="prasham2407" /> </p>
+<p align="center"> Visitor count: <br><img src="https://profile-counter.glitch.me/Prasham2407%20/count.svg" /> </p>
 
 - 🔭 I’m currently working on **Chat-app**
 

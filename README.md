@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything 😆**
 
-- 💬 Ask me about **ReactJs, Node.js**
+- 💬 Ask me about **ReactJs, Node.js, AngularJS**
 
 - 📫 How to reach me **shahprashamb@gmail.com**
 

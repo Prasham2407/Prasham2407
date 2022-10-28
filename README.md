@@ -3,9 +3,9 @@
 
 <p align="center"> Visitor count: <br><img src="https://profile-counter.glitch.me/Prasham2407%20/count.svg" /> </p>
 
-- 🔭 I’m currently working on **Chat-app**
+- 🔭 I’m currently working on **Chat-app** <img src="https://media.tenor.com/Sa2uJY3GlbcAAAAi/cat-peach.gif" width="35">
 
-- 🌱 I’m currently learning **everything 😆** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+- 🌱 I’m currently learning **everything 😆** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="38">
 
 - 💬 Ask me about **ReactJs, Node.js, Angular**
 

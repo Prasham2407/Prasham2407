@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Prasham Shah</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Prasham Shah</h1>
 <h3 align="center">A passionate fullstack developer and a tach enthisiast from India</h3>
 
 <p align="center"> Visitor count: <br><img src="https://profile-counter.glitch.me/Prasham2407%20/count.svg" /> </p>
 
 - 🔭 I’m currently working on **Chat-app**
 
-- 🌱 I’m currently learning **everything 😆**
+- 🌱 I’m currently learning **everything 😆** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 - 💬 Ask me about **ReactJs, Node.js, Angular**
 

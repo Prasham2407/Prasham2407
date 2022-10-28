@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Chat-app**
 
-- 🌱 I’m currently learning **everything 😆** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+- 🌱 I’m currently learning **everything 😆** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 - 💬 Ask me about **ReactJs, Node.js, Angular**
 

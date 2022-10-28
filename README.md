@@ -3,15 +3,16 @@
 
 <p align="center"> Visitor count: <br><img src="https://profile-counter.glitch.me/Prasham2407%20/count.svg" /> </p>
 
-- 🔭 I’m currently working on **Chat-app** <img src="https://media.tenor.com/Sa2uJY3GlbcAAAAi/cat-peach.gif" width="35">
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on **Chat-app** 
+<!-- - <img src="https://media.tenor.com/Sa2uJY3GlbcAAAAi/cat-peach.gif" width="35"> -->
 
-- 🌱 I’m currently learning **everything 😆** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="38">
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning **everything 😆** 
 
-- 💬 Ask me about **ReactJs, Node.js, Angular**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **ReactJs, Node.js, Angular**
 
-- 📫 How to reach me **shahprashamb@gmail.com**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **shahprashamb@gmail.com**
 
-- ⚡ Fun fact: **I love to play Harmonium**
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **I love to play Harmonium**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 
 <!-- Helopin Badges' link, Uncomment it when get some good badges -->
-<!-- [![@prasham2407's Holopin board](https://holopin.me/prasham2407)](https://holopin.io/@prasham2407) -->
+[![@prasham2407's Holopin board](https://holopin.me/prasham2407)](https://holopin.io/@prasham2407)
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on **Chat-app** 
 <!-- - <img src="https://media.tenor.com/Sa2uJY3GlbcAAAAi/cat-peach.gif" width="35"> -->

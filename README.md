@@ -3,10 +3,6 @@
 
 <p align="center"> Visitor count: <br><img src="https://profile-counter.glitch.me/Prasham2407%20/count.svg" /> </p>
 
-
-<!-- Helopin Badges' link, Uncomment it when get some good badges -->
-[![@prasham2407's Holopin board](https://holopin.me/prasham2407)](https://holopin.io/@prasham2407)
-
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on a **browser extention for developers** 
 <!-- - <img src="https://media.tenor.com/Sa2uJY3GlbcAAAAi/cat-peach.gif" width="35"> -->
 

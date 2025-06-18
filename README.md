@@ -3,7 +3,7 @@
 
 <p align="center"> Visitor count: <br><img src="https://profile-counter.glitch.me/Prasham2407%20/count.svg" /> </p>
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on a **browser extention for developers** 
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on a **Youtube Loop Browser Extention** 
 <!-- - <img src="https://media.tenor.com/Sa2uJY3GlbcAAAAi/cat-peach.gif" width="35"> -->
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning **everything 😆** 
